@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I am Kajetan :wave:
 
-<!--
-**Ka3wo123/Ka3wo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study IT currently. I enjoy gaining knowledge and developing my programming skills whenever the opportunity occurs. I am keen on:
+- Programming 🖥️
+- Computer Science `1010001`
+- Mathematics ➕➖
 
-Here are some ideas to get you started:
+### Main technologies and frameworks I use and practically know
+![spring-boot](https://www.simpleimageresizer.com/_uploads/photos/389665b4/spring_boot_6_80x45.png)
+![java](https://www.simpleimageresizer.com/_uploads/photos/389665b4/java_1_60x60.png) 
+![docker](https://www.simpleimageresizer.com/_uploads/photos/389665b4/docker_1_50x50.png) 
+![postgresql](https://www.simpleimageresizer.com/_uploads/photos/389665b4/postgre_50x50.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My statistics
+![my stats](https://github-readme-stats.vercel.app/api?username=Ka3wo123&show_icons=true&theme=tokyonight)
