@@ -6,10 +6,12 @@ I study IT currently. I enjoy gaining knowledge and developing my programming sk
 - Mathematics ➕➖
 
 ### Main technologies and frameworks I use and am familiar with
-![spring-boot](https://www.simpleimageresizer.com/_uploads/photos/389665b4/spring_boot_6_80x45.png)
-![java](https://www.simpleimageresizer.com/_uploads/photos/389665b4/java_1_60x60.png) 
-![docker](https://www.simpleimageresizer.com/_uploads/photos/389665b4/docker_1_50x50.png) 
-![postgresql](https://www.simpleimageresizer.com/_uploads/photos/389665b4/postgre_50x50.png)
+ 
+ ![java](https://github.com/Ka3wo123/Ka3wo123/blob/main/java_60x60.png) 
+ ![docker](https://github.com/Ka3wo123/Ka3wo123/blob/main/docker_60x60.png) 
+ ![postgresql](https://github.com/Ka3wo123/Ka3wo123/blob/main/Postgresql_elephant.svg_60x60.png)
+ ![intelij](https://github.com/Ka3wo123/Ka3wo123/blob/main/IntelliJ_IDEA_Icon.svg_60x60.png)
+ ![spring-boot](https://github.com/Ka3wo123/Ka3wo123/blob/main/spring_boot_1_90x45.png)
 
 
 ### My statistics
