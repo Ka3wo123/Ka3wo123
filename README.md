@@ -5,7 +5,7 @@ I study IT currently. I enjoy gaining knowledge and developing my programming sk
 - Computer Science `1010001`
 - Mathematics ➕➖
 
-### Main technologies and frameworks I use and am familiar with
+### Main technologies I use and am familiar with
  
  ![java](https://github.com/Ka3wo123/Ka3wo123/blob/main/java_60x60.png) 
  ![docker](https://github.com/Ka3wo123/Ka3wo123/blob/main/docker_60x60.png) 
