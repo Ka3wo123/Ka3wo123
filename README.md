@@ -8,8 +8,10 @@ I study IT currently. I enjoy gaining knowledge and developing my programming sk
 ### Main technologies I use and am familiar with
  
  ![java](./java_60x60.png) 
- ![spring-boot](./icons8-spring-boot-96%20(1).png) \
- ![vue](./Vue.js_Logo_2.svg%20(2).png) 
+ ![spring-boot](./icons8-spring-boot-96%20(1).png)
+ ![spring-boot](./micronaut.jpeg) \
+ ![vue](./Vue.js_Logo_2.svg%20(2).png)
+ ![vite](./Vitejs-logo.svg%20(1).png)
  ![angular](./angular_gradient.png)
  ![react](./React-icon.svg%20(1).png) \
  ![postgresql](./Postgresql_elephant.svg_60x60.png) 
